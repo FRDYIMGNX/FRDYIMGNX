@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FRDYIMGNX
-- 👀 I’m interested in front ent and gamr devlopment
+- 👀 I’m interested in front end and game devlopment
 - 🌱 I’m currently learning javascript and c#
 
 <!---
